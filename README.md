@@ -1,5 +1,5 @@
 
-# Exchange Rates Api 💵
+# Exchange Rates App 💵
 
 A simple exchange rates application with api.
 API:https://api.exchangerate.host/latest?base
