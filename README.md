@@ -5,7 +5,7 @@ A simple exchange rates application with api.
 API:https://api.exchangerate.host/latest?base
 
 
-## Yol haritası
+## Roadmap
 
 - JavaScript
 
